@@ -10,4 +10,4 @@ Allows users to delete previously saved notes.
 
 ![](https://raw.githubusercontent.com/tmylesc/notetaker/master/assets/screenshot.png)
 
-Deployed app url: ()
+Deployed app url: (https://taking-notes-application.herokuapp.com/)
